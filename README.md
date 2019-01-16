@@ -1,2 +1,9 @@
 # IITB-449
-Taylor is the worst
+This is the repository for CPSC 449 assignment for the Isaac is the Best Group
+
+Members:
+Isaac
+Taylor
+Jessica
+Abi
+Karen
